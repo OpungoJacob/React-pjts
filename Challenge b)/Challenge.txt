@@ -17,7 +17,7 @@ the `<link/>` elements instead of the @import or npm options for getting
 the fonts. you may need to do some extra research to figure out how this
 works if haven't done it before )
 
-***************************************
+***********************************************************************************************
 Challenge b)
 Place the gray react logo in the background
 
