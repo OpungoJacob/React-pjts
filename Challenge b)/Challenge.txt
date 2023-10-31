@@ -1,0 +1,33 @@
+Challenge a)
+- Create a `components` folder
+- Create the following components in separate files inside
+the components folder. in each one, just render an `h1`
+with the name of the component (e.g. return <h1>Navbar goes here</h1>);
+-Navbar
+-Main
+- Create an App component outside the components folder (Sibling to
+the index.js file)
+- Have App render the Navbar and Main components
+- Import and render the App component inside of index.js using ReactDOM
+- At this point you should have your "Navbar goes here" etc. showing up
+in the mini-browser.
+- Go to Google fonts and get the "Inter" font with weights 400,600, and 700.
+put the links to those fonts ABOVE the style.css link in index,html (use
+the `<link/>` elements instead of the @import or npm options for getting
+the fonts. you may need to do some extra research to figure out how this
+works if haven't done it before )
+
+***************************************
+Challenge b)
+Place the gray react logo in the background
+
+Don't use an `img` element, but rather set it as the 
+`background-image` of the `main` element.
+
+Hint: you'll need to use the following properties:
+- Background-image
+- Background-repeat
+- Background-position
+
+(or the shorthand `backgorund` property with values for all
+those other properties)
