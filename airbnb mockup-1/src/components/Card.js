@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import Photo from '../images/image 12.png'
 import Photo1 from '../images/Star 1.png'
 export default function Card(){
