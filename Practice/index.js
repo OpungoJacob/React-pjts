@@ -1,4 +1,4 @@
-//ReactDOM.render(<h1 className="header">Hello, everyone!</h1>,document.getElementById("root"));
+//ReactDOM.render(<h1 className="header">Hello, everyone!</h1>,document.getElementById("root"))
 // another approach
 //ReactDOM.render(<p>React is proving to be fun!</p>,document.getElementById("root"))
 
