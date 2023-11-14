@@ -1,0 +1,42 @@
+#root{
+    margin: 0 auto; 
+  width: 500px;
+  height: 400px;
+  background-color: #F5F5F5;
+
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: comic sans ms;
+    
+}
+ul li{
+    font-size: 20px;
+}
+
+
+.nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+.nav-items > li{
+    padding: 10px;
+}
+.image{
+    width: 60px;
+}
+.thing{
+    background-color: grey;
+    height: 3px;
+}
+.body{
+    justify-content: center;
+    padding-left: 20px;
+}
