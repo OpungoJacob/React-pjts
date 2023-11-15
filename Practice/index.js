@@ -95,7 +95,7 @@ create a navbar in jsx:
             
         )
         ReactDOM.render(
-            me, document.getElementById("root")
+            me, document.getElementById("root");
         )
         // document.getElementById("root").append(JSON.stringify(me))
         */
