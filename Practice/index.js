@@ -2,7 +2,7 @@
 // another approach
 //ReactDOM.render(<p>React is proving to be fun!</p>,document.getElementById("root"));
 
-//ReactDOM.render(<i>My name is Opungo jacob, a student of IST</i>,document.getElementById("root"))
+//ReactDOM.render(<i>My name is Opungo jacob, a student of IST</i>,document.getElementById("root"));
 
 // Challenge: try to render an <ul> with 2+ <li> inside
 /* ReactDOM.render(<ul><b>Meals</b>
