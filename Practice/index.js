@@ -1,6 +1,6 @@
 //ReactDOM.render(<h1 className="header">Hello, everyone!</h1>,document.getElementById("root"));
 // another approach
-//ReactDOM.render(<p>React is proving to be fun!</p>,document.getElementById("root"))
+//ReactDOM.render(<p>React is proving to be fun!</p>,document.getElementById("root"));
 
 //ReactDOM.render(<i>My name is Opungo jacob, a student of IST</i>,document.getElementById("root"))
 
