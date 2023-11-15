@@ -432,7 +432,7 @@ NB: u will have to import and export the files.
 import Header from "./Header";
 import Bar from "./Bar";
 import MainContent from "./MainContent";
-import Footer from "./Footer"
+import Footer from "./Footer";
 
 function Reason(){
     return(
