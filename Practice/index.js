@@ -198,7 +198,7 @@ i) - Add a `header` element with a nested `nav` element. inside the `nav`,
   more manageable so it doesn't take up the whole screen.
 ii) - Add an `h1` with some text describing the page. (E.g "Reasons 
   i'm excited to learn React"). Place it above the ordered list.
-- Add a `footer` after the list that says:
+iii) - Add a `footer` after the list that says:
   ""    
 
 function Reason(){
