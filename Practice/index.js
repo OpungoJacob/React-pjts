@@ -15,7 +15,7 @@
 
 /* Challenge: Recreate the above line of code in vanilla JS by creating and appending an h1 to our divroot(without using innerHTML).
 1. -create a new h1 element
--Give it some Textcontent
+2. -Give it some Textcontent
 -Append it as a child of the div#root
 
 const h1 = document.createElement("h1")
