@@ -284,7 +284,7 @@ Challenge:
 
 1. - Move the `footer` into its own component called "Footer"
   and render that component inside the page component.
-- Move the `h1` and `ol` together into another component 
+2. - Move the `h1` and `ol` together into another component 
   called "Main content" and render insde page as well 
 
 
