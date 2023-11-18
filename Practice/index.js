@@ -196,7 +196,7 @@ i) - Add a `header` element with a nested `nav` element. inside the `nav`,
   include a `img` element with the image of the react logo inside
   (src="./react-logo.png") and make sure to set the width to something
   more manageable so it doesn't take up the whole screen.
-- Add an `h1` with some text describing the page. (E.g "Reasons 
+ii) - Add an `h1` with some text describing the page. (E.g "Reasons 
   i'm excited to learn React"). Place it above the ordered list.
 - Add a `footer` after the list that says:
   ""    
