@@ -106,7 +106,7 @@ ReactDOM.render( */
       we'll be adding styling to it later.
 
       Hints:
-      * The react logo is a file in the project tree, so you can
+     1.  * The react logo is a file in the project tree, so you can
       access it by using `src"./react-logo.png" in your image element
       *You can alos set the `width` attribute of the image element just like in HTML. 
       in the slide, i have set it 40px
