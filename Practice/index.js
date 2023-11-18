@@ -49,7 +49,7 @@ ReactDOM.render( */
 2. -use the semantic `nav` element as the parent wrapper
 3. -Have an h1 element with the brand name of your "website"
 4. -Insert an unordered list for the other nav elements
--inside the `ul`, have three `li`s for "Pricing", "About", and "Contact"
+5. -inside the `ul`, have three `li`s for "Pricing", "About", and "Contact"
 -Dont worry about styling yet*/
 
   /*   const jacob = (
