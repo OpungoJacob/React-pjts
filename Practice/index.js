@@ -50,7 +50,7 @@ ReactDOM.render( */
 3. -Have an h1 element with the brand name of your "website"
 4. -Insert an unordered list for the other nav elements
 5. -inside the `ul`, have three `li`s for "Pricing", "About", and "Contact"
--Dont worry about styling yet*/
+6. -Dont worry about styling yet*/
 
   /*   const jacob = (
         <nav>
