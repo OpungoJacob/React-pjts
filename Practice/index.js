@@ -235,7 +235,7 @@ ReactDOM.render(
 
 /* 
 Mini challenge:
-Move the `header` element from page into its own component called `header`
+1. Move the `header` element from page into its own component called `header`
 
 
 function Header(){
